@@ -1,0 +1,3 @@
+Bom dia, ${PERSON_NAME}!
+
+Esse é um email automatizado em python!
